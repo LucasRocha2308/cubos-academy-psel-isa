@@ -1,3 +1,5 @@
+//
+
 function solucao(obj) {
   if (
     obj.temIngresso === true &&
